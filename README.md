@@ -7,5 +7,4 @@ My name is Syed Aarib Ali. I did my O levels from Happy Home School and my A lev
    
 ![hehe](https://aemagazine.pk/posts/22083173143Courage%20the%20Cowardly%20Dog.jpg)
 
-# PF LAB 3: Introduction to C Language
 
